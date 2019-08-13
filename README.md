@@ -1,2 +1,0 @@
-# Coolcoding
-my first repository
